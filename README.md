@@ -1,6 +1,6 @@
 Javascript Applet for copying all links on a page with press of a button.
 
-##How to use the code:
+#How to use the code:
 (Compatible with Chrome and Chromium based browsers that support Javascript)
 
 Create a new bookmark
